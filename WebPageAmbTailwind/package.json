@@ -1,0 +1,17 @@
+{
+    "name": "webpage-redimension-flexgrid",
+    "version": "1.0.0",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "serve": "vite preview"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "vite": "^5.4.8",
+      "tailwindcss": "^3.4.13",
+      "postcss": "^8.4.47",
+      "autoprefixer": "^10.4.20"
+    }
+  }
+  

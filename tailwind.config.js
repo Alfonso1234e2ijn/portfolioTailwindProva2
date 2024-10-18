@@ -6,9 +6,9 @@ module.exports = {
       colors: {
         "custom-teal": "#92e3e3",
       },
-      // backgroundImage: {
-      //   'biggie': "url('/img/contacteBiggie.jpg')",
-      // },
+      backgroundImage: {
+        biggie: "url('/img/contacteBiggie.jpg')",
+      },
     },
   },
   plugins: [],
